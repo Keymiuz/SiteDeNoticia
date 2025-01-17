@@ -38,7 +38,7 @@ Siga estas etapas para rodar o projeto em sua máquina local.
 
 2️⃣ Clone o Repositório
 bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone (https://github.com/Keymiuz/SiteDeNoticia.git)
 cd seu-repositorio
 
 3️⃣ Instale as Dependências
