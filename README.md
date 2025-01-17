@@ -42,7 +42,7 @@ git clone (https://github.com/Keymiuz/SiteDeNoticia.git)
 cd seu-repositorio
 
 3️⃣ Instale as Dependências
-- npm install express mongoose body-parser ejs
+- npm install express mongoose body-parser ejs ms
 
 4️⃣  Inicie o Servidor
 - npm start ou nodemon server..js
